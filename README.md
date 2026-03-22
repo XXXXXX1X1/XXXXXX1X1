@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-YOUR_USERNAME-181717?style=for-the-badge&logo=github" alt="GitHub Badge" />
+  <a href="https://github.com/XXXXXX1X1">
+    <img src="https://img.shields.io/badge/GitHub-XXXXXX1X1-181717?style=for-the-badge&logo=github" alt="GitHub Badge" />
   </a>
   <img src="https://img.shields.io/badge/NSU-Novosibirsk_State_University-0A66C2?style=for-the-badge" alt="NSU Badge" />
   <img src="https://img.shields.io/badge/Open_to-Internships-2EA44F?style=for-the-badge" alt="Internship Badge" />
@@ -50,49 +50,36 @@ I am a 2nd-year student at **Novosibirsk State University** focused on **Python*
 
 ## Featured Projects
 
-### [EngageX](https://github.com/YOUR_USERNAME/EngageX)
+### [EngageX](https://github.com/RusBarTeam/EngageX)
 AI-powered platform with **Python backend**, **Telegram workflows**, **PostgreSQL**, and **LLM-related components**.
 
 **Core stack:** FastAPI, PostgreSQL, SQLAlchemy, Alembic, Aiogram, Telethon, PyTorch, Transformers, Docker
 
-### [OCR Quality Improvement Pipeline](https://github.com/YOUR_USERNAME/ocr-quality-improvement-pipeline)
-Python pipeline for improving OCR results from scanned documents using preprocessing, image enhancement, and quality evaluation.
-
-**Core stack:** Python, OpenCV, NumPy, Pillow, Tesseract OCR, pytesseract
-
-### [AI Headline Generation CLI](https://github.com/YOUR_USERNAME/ai-headline-generation-cli)
-Command-line tool for generating concise headlines from long news texts using transformer models.
-
-**Core stack:** Python, PyTorch, Hugging Face Transformers
-
-### [ML / CV Coursework Projects](https://github.com/YOUR_USERNAME/NSU-project)
-Selected academic work in machine learning, computer vision, embeddings, metric learning, and model evaluation.
+### [NSU-project](https://github.com/XXXXXX1X1/NSU-project)
+A collection of academic and practical work in **machine learning**, **computer vision**, and **Python development**.
 
 **Core stack:** Python, scikit-learn, PyTorch, OpenCV, TensorFlow/Keras, XGBoost
+
+### [PAC](https://github.com/XXXXXX1X1/PAC)
+Coursework and experiments in **data analysis**, **Jupyter notebooks**, and applied Python tasks.
+
+**Core stack:** Python, Jupyter Notebook, pandas, NumPy
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=XXXXXX1X1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XXXXXX1X1&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## Contribution Activity
-
-<p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
----
-
-## Contacts
+## Contact
 
 - Email: `a.salapanov@q.nsu.ru`
-- GitHub: `https://github.com/YOUR_USERNAME`
+- GitHub: `https://github.com/XXXXXX1X1`
 
 <details>
   <summary>More about my interests</summary>
